@@ -1,2 +1,2 @@
-# Flutter Projects
-Basic to Advanced UI's
+# Flutter Projects |
+Flutter UI Projects (Beginner to Advanced) This folder contains a collection of Flutter UI projects that I’m building as I learn Flutter. It includes user interfaces ranging from basic layouts to more advanced designs. As a beginner, I’m using this folder to practice and improve my UI development skills in Flutter. I’ll continue to update it with new projects as I grow and explore more features of the framework.
